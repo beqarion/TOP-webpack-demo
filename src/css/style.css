@@ -1,0 +1,10 @@
+@font-face {
+  font-family: roboto;
+  src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+}
+.hello {
+  color: red;
+  font-family: roboto;
+  background: url("../my-image.png") no-repeat center center;
+  background-size: cover;
+}
